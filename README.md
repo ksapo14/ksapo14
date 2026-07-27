@@ -59,11 +59,11 @@ I'm developing a live assistant that listens to a teacher's or lecturer's speech
 
 | Project | Description | Tech Stack |
 |:--|:--|:--|
-| **IMAGINEv1** | A live assistant that turns spoken instruction into interactive visuals and concise summaries in real time. | Python · React · TypeScript |
+| **IMAGINEv1** | A live assistant that turns spoken instruction into interactive visuals and concise summaries in real time. | Python · Next.js · TypeScript |
 | **Compiler in C** | A compiler built from the ground up to explore parsing, translation, and systems fundamentals. | C · Compilers |
 | **Neural network from scratch** | A neural network implemented using only NumPy instead of a high-level ML framework. | Python · NumPy |
-| **FRC robotics software** | Software for a robot engineered to compete at a World Championship level. | C++ · Embedded Systems · Robotics |
-| **Web Design for Artisanal** | A polished digital experience for a fine-dining restaurant serving **170+ guests per night**. | Web Design · Frontend · UI/UX |
+| **FRC robotics software** | Software for a robot engineered to compete at a World Championship level. | C++ · Embedded Systems · Java · Robotics |
+| **Web Design for Artisanal** | A polished digital experience for a fine-dining restaurant serving **170+ guests per night**. | React · Frontend · UI/UX |
 
 <h2>GitHub Stats</h2>
 
